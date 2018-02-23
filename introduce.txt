@@ -1,0 +1,3 @@
+J represents jobs
+O represents operations
+M represents machines
